@@ -1,0 +1,14 @@
+# directory to save the pairs files
+pairs_directory: cryptopair_files
+# how ofter to update crypto pair in seconds
+update_time: 30
+# binancbinance_endpointe endpoint
+binance_endpoint: "https://api.binance.com/api/v3/exchangeInfo"
+# coinbase endpoint
+coinbase_endpoint: "https://api-public.sandbox.pro.coinbase.com/products"
+# ftx endpoint
+#ftx_enpoint: "https://ftx.com/api/markets"
+# kraken endpoint
+# kraken_endpoint: "kraken"
+# huobi
+# huobi_endpoint: "huobi" 
